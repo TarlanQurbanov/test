@@ -1,0 +1,21 @@
+/* .yazi{
+    color:red;
+} */
+.buttons{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+.Divs{
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin: 10px;
+    float: left;
+}
+
+/* .Divs::after{
+    content: "";
+    float: left;
+} */
